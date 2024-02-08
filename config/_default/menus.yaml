@@ -7,14 +7,14 @@ main:
     url: /#top
     weight: 10
   - name: Serviços
-    url: /#blog
+    url: /#features
     weight: 20
-  - name: Testemunhos
+  - name: Solutions
     url: /#solutions
     weight: 30
-  - name: Marcações
+  - name: Resources
     weight: 40
     hasChildren: true
-  - parent: Contactos
+  - parent: Resources
     name: Blog
     url: blog/
